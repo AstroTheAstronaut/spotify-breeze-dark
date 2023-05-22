@@ -1,4 +1,4 @@
-# BreezeDark
+# Spotify Breeze Dark Theme
 
 ## Screenshots
 
