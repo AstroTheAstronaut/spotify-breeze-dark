@@ -2,7 +2,8 @@
 
 ## Screenshots
 
-![Screenshot](https://imgur.com/5eE1qkc)
+![Screenshot](https://github.com/AstroTheAstronaut/spotify-breeze-dark/assets/52109183/955b1c39-f43e-4dad-8f4e-a57a332b8911)
+
 
 ## Info
 
